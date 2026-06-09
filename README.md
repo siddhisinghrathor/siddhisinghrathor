@@ -58,23 +58,6 @@ const siddhi = {
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=siddisinghrathor&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddisinghrathor&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=siddisinghrathor&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
